@@ -1,6 +1,10 @@
 # OpenSource
 Med Edamam API og React
 
+Veiledende video: https://www.youtube.com/watch?v=U9T6YkEDkMo
+
+Hvordan kjøre prosjektet:
+
 1. 
 Opprett react prosjekt ved hjelp av terminalen med denne kommandoen:
 npx create-react-app my-app
